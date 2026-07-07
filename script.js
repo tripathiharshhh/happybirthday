@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         } else {
 
-            error.textContent = "Wrong password ❤️";
+            error.textContent = "😒 Are you sure? Try Again";
 
             passwordInput.value = "";
 
